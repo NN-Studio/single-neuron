@@ -1,0 +1,9 @@
+{
+  "name": "single-neure",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "zxl20070701",
+  "license": "MIT",
+  "description": "单个神经元"
+}

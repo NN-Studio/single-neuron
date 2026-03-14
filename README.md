@@ -1,4 +1,4 @@
-# [single-neure](https://github.com/NN-Studio/single-neure)
+# [single-neuron](https://github.com/NN-Studio/single-neuron)
 单个神经元
 
 ## 问题描述
@@ -13,7 +13,7 @@
 
 我们的模型如下：
 
-<img src="./images/neure.webp">
+<img src="./images/neuron.webp">
 
 x1、x2、x3分别表示甲、乙、丙去不去的值，去就是1，不去是0。输出y表示丁去不去的值。
 

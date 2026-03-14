@@ -1,5 +1,5 @@
 {
-  "name": "single-neure",
+  "name": "single-neuron",
   "scripts": {
     "start": "node ./index.js"
   },
